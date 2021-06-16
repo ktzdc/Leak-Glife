@@ -1,10 +1,9 @@
 <h1 align="center">CTB</h1>
 <p align="center">
-  <b>🖤 Follow me here:</b><br>
-  <a href="https://discord.gg/rca">Discord</a> |
-  <a href="https://www.youtube.com/channel/UC09GPm24_rdeOXa5KOmhDnw">YouTube</a> |
-  <a href="https://twitter.com/its_vichy">Twitter</a> |
-  <a href="https://github.com/Its-Vichy">Github</a>
+  <b>📏・Follow me here:</b><br>
+  <a href="https://discord.gg/53AJ3rtHSv">Discord</a> |
+  <a href="https://twitter.com/ktzdc">Twitter</a> |
+  <a href="https://github.com/ktzdc">Github</a>
   <br><br>
   <img src="https://media.discordapp.net/attachments/790712848984571905/854813938725683220/telechargement.gif">
 </p>
