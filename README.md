@@ -6,12 +6,12 @@
   <a href="https://twitter.com/its_vichy">Twitter</a> |
   <a href="https://github.com/Its-Vichy">Github</a>
   <br><br>
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/939465072079337699/A44A2D24BB987267F26C56440F51A0B468481222/">
+  <img src="https://media.discordapp.net/attachments/790712848984571905/854813938725683220/telechargement.gif">
 </p>
 
 #
 
-## 🐺 Features:
+## 🏴‍ Features:
 ```cs
 /*
   *- The first
